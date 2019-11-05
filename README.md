@@ -13,5 +13,16 @@
 * 传送门：[Demo演示点这里][1]
 
 ----------
+## 项目运行
 
+    # 克隆到本地
+    git clone https://github.com/liu-ziting/Absorbed.git
+
+
+## 项目部分截图
+
+![主页][2]
+
+  [1]: http://liuziting.coding.me/Absorbed/page/index.html
   [1]: http://tc.lihail.cn/ab.gif
+  
