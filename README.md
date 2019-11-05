@@ -24,5 +24,5 @@
 ![主页][2]
 
   [1]: http://liuziting.coding.me/Absorbed/page/index.html
-  [1]: http://tc.lihail.cn/ab.gif
+  [2]: http://tc.lihail.cn/ab.gif
   
